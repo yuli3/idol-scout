@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
@@ -7,4 +8,15 @@
 </url>
 
 
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+<url>
+  <loc>https://idol-scout.ahoxy.com/</loc>
+  <lastmod>2023-09-04T02:19:10+00:00</lastmod>
+</url>
+
+
+>>>>>>> 4aed25d (0908)
 </urlset>

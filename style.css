@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .dark-mode {
   background-color: #333;
   color: #fff;
@@ -148,3 +149,155 @@
   margin : 0 auto;
 }
 
+=======
+.dark-mode {
+  background-color: #333;
+  color: #fff;
+}
+
+.dark-mode h1,
+.dark-mode h2,
+.dark-mode div {
+  color: #fff;
+}
+
+.html, body {
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  color : #222;
+}
+
+.container {
+  padding: 50px 10%;
+  text-align: center;
+  border: 1px dotted grey;
+  border-radius: 3em;
+}
+
+.box {
+  position: relative;
+  background: #ffffff;
+  width: 100%;
+}
+
+.box-header {
+  color: #444;
+  display: block;
+  padding: 10px;
+  position: relative;
+  border-bottom: 1px solid #f4f4f4;
+  margin-bottom: 10px;
+}
+
+.box-tools {
+  position: absolute;
+  right: 10px;
+  top: 5px;
+}
+
+.dropzone-wrapper {
+  border: 2px dashed #91b0b3;
+  color: #92b0b3;
+  position: relative;
+  min-height: 150px;
+}
+
+.dropzone-desc {
+  position: absolute;
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+  text-align: center;
+  width: 40%;
+  top: 50px;
+  font-size: 16px;
+}
+
+.dropzone,
+.dropzone:focus {
+  position: absolute;
+  outline: none !important;
+  width: 100%;
+  min-height: 150px;
+  cursor: pointer;
+  opacity: 0;
+}
+
+.dropzone-wrapper:hover,
+.dropzone-wrapper.dragover {
+  background: #ecf0f5;
+}
+
+.preview-zone {
+  text-align: center;
+}
+
+.preview-zone .box {
+  box-shadow: none;
+  border-radius: 0;
+  margin: 20px;
+}
+
+.nav-distance {
+  padding: 2.1% 7.7%;
+}
+
+.section {
+  margin-top: 100px;
+}
+
+.title {
+  font-size: 3rem;
+  line-height: 1.67;
+  text-align: center;
+}
+
+.subtitle {
+  font-size: 2rem;
+  line-height: 1.53;
+  text-align: center;
+  color : black;
+}
+
+.bar-graph {
+  height: 25px;
+  /* set the height of the bar graph */
+  background-color: #add7fc;
+  /* set the background color of the bar graph */
+}
+
+.bar {
+  height: 100%;
+  background-color: #59adfa;
+  /* set the color of the bar */
+}
+
+/* 이미지 최대 폭 */
+.uploaded_image {
+  width: 100%;
+  max-width: 400px;
+  height: 100%;
+}
+
+/* On screens that are 600px or less, set the background color to olive */
+@media screen and (max-width: 600px) {
+  html {
+    font-size: 10px;
+  }
+
+  .navbar-brand {
+    font-size: 2rem;
+  }
+}
+
+.result-message {
+  text-align: center;
+  font-size: 20px;
+  margin: 10px;
+}
+
+.ad_banner {
+  width: 320px;
+  margin : 0 auto;
+}
+
+>>>>>>> 4aed25d (0908)
